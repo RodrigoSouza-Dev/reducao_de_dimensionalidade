@@ -5,6 +5,9 @@ Confira o RESULTADO a seguir:
 ANTES:
 ![image](https://github.com/RodrigoSouza-Dev/reducao_de_dimensionalidade/assets/56081755/e85321ce-4af7-419c-b716-c6bf00f90f7f)
 
+INTERMEDIARIO:
+![image](https://github.com/RodrigoSouza-Dev/reducao_de_dimensionalidade/assets/56081755/027eeb46-4b08-444b-9240-1d92106c4a96)
+
 DEPOIS:
 ![image](https://github.com/RodrigoSouza-Dev/reducao_de_dimensionalidade/assets/56081755/eae44ae9-cb57-4ccc-8690-8a0e263698e7)
 
